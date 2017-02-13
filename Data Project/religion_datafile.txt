@@ -1,8 +1,0 @@
-Country	Buddhist	Christian	Folk Religion	Hindu	Jewish	Other	Shia Muslim	Sunni Muslim	Zoroastrian
-Iran	0	0	0	0	0	0	90	9	0
-Iraq	0	1	0	0	0	2	65	32	0
-Libya	0	3	0	0	0	0	0	97	0
-Somalia	0	0	0	0	0	0	0	100	0
-Sudan	0	0	0	0	0	0	0	100	0
-Syria	0	10	0	0	0	3	13	74	0
-Yemen	0	0	0	0	0	0	35	65	0
